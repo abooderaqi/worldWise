@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2023-08-15T20:35:30.189Z",
+      "notes": "It was amazing trip 😍",
+      "position": {
+        "lat": "52.45600939264076",
+        "lng": "13.425292968750002"
+      },
+      "id": 73930386
+    },
+    {
+      "cityName": "Irbid",
+      "country": "Jordan",
+      "emoji": "🇯🇴",
+      "date": "2023-08-15T20:37:06.732Z",
+      "notes": "Home sweet home 🏠",
+      "position": {
+        "lat": "32.58102875052872",
+        "lng": "35.865683555603034"
+      },
+      "id": 73930387
+    },
+    {
+      "cityName": "Almodovar del Campo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-20T11:26:19.386Z",
+      "notes": "",
+      "position": {
+        "lat": "38.634036452919226",
+        "lng": "-4.7900390625"
+      },
+      "id": 73930388
+    }
+  ]
+}
